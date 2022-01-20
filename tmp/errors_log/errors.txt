@@ -1,0 +1,462 @@
+[2021-07-20 14-30-13] 
+ Номер ошибки:0 
+ Текст ошибки: Call to undefined function test()
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\public\index.php
+ Строка ошибки: 34
+==============================
+[2021-07-20 14-31-50] 
+ Номер ошибки:404 
+ Текст ошибки: Ошибка
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\public\index.php
+ Строка ошибки: 34
+==============================
+[2021-07-20 15-14-00] 
+ Номер ошибки:404 
+ Текст ошибки: Page not found
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\vendor\core\Router.php
+ Строка ошибки: 67
+==============================
+[2021-07-20 15-14-38] 
+ Номер ошибки:500 
+ Текст ошибки: Controller app\controllers\ViewController not found
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\vendor\core\Router.php
+ Строка ошибки: 64
+==============================
+[2021-07-21 13-38-51] 
+ Номер ошибки:404 
+ Текст ошибки: Page not found
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\vendor\core\Router.php
+ Строка ошибки: 67
+==============================
+[2021-07-21 13-38-58] 
+ Номер ошибки:500 
+ Текст ошибки: Controller app\controllers\GgController not found
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\vendor\core\Router.php
+ Строка ошибки: 64
+==============================
+[2021-07-21 13-39-23] 
+ Номер ошибки:500 
+ Текст ошибки: Controller app\controllers\GgController not found
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\vendor\core\Router.php
+ Строка ошибки: 64
+==============================
+[2021-07-21 14-39-22] 
+ Номер ошибки:0 
+ Текст ошибки: Class 'vendor\core\base\View' not found
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\app\views\layouts\test_ajax.php
+ Строка ошибки: 5
+==============================
+[2021-07-23 20-46-12] 
+ Номер ошибки:404 
+ Текст ошибки: Page not found
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\vendor\mpf\core\Router.php
+ Строка ошибки: 67
+==============================
+[2021-07-24 21-42-07] 
+ Номер ошибки:404 
+ Текст ошибки: Page not found
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\vendor\mpf\core\Router.php
+ Строка ошибки: 67
+==============================
+[2021-07-24 21-42-13] 
+ Номер ошибки:500 
+ Текст ошибки: Controller app\controllers\AdminController not found
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\vendor\mpf\core\Router.php
+ Строка ошибки: 64
+==============================
+[2021-07-24 21-42-23] 
+ Номер ошибки:500 
+ Текст ошибки: Controller app\controllers\AdminController not found
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\vendor\mpf\core\Router.php
+ Строка ошибки: 64
+==============================
+[2021-07-24 21-42-23] 
+ Номер ошибки:404 
+ Текст ошибки: Page not found
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\vendor\mpf\core\Router.php
+ Строка ошибки: 67
+==============================
+[2021-07-24 21-42-23] 
+ Номер ошибки:404 
+ Текст ошибки: Page not found
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\vendor\mpf\core\Router.php
+ Строка ошибки: 67
+==============================
+[2021-07-24 21-42-23] 
+ Номер ошибки:404 
+ Текст ошибки: Page not found
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\vendor\mpf\core\Router.php
+ Строка ошибки: 67
+==============================
+[2021-07-24 21-42-39] 
+ Номер ошибки:500 
+ Текст ошибки: Controller app\controllers\AdminController not found
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\vendor\mpf\core\Router.php
+ Строка ошибки: 64
+==============================
+[2021-07-24 21-42-48] 
+ Номер ошибки:500 
+ Текст ошибки: Controller app\controllers\AdminController not found
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\vendor\mpf\core\Router.php
+ Строка ошибки: 64
+==============================
+[2021-07-24 21-42-48] 
+ Номер ошибки:404 
+ Текст ошибки: Page not found
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\vendor\mpf\core\Router.php
+ Строка ошибки: 67
+==============================
+[2021-07-24 21-42-48] 
+ Номер ошибки:404 
+ Текст ошибки: Page not found
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\vendor\mpf\core\Router.php
+ Строка ошибки: 67
+==============================
+[2021-07-24 21-42-51] 
+ Номер ошибки:500 
+ Текст ошибки: Controller app\controllers\AdminController not found
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\vendor\mpf\core\Router.php
+ Строка ошибки: 64
+==============================
+[2021-07-24 21-44-58] 
+ Номер ошибки:500 
+ Текст ошибки: Controller app\controllers\AdminController not found
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\vendor\mpf\core\Router.php
+ Строка ошибки: 64
+==============================
+[2021-07-24 22-14-20] 
+ Номер ошибки:500 
+ Текст ошибки: Controller app\controllers\MainAdminController not found
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\vendor\mpf\core\Router.php
+ Строка ошибки: 63
+==============================
+[2021-07-24 22-19-38] 
+ Номер ошибки:500 
+ Текст ошибки: Controller app\controllers\MainAdminController not found
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\vendor\mpf\core\Router.php
+ Строка ошибки: 63
+==============================
+[2021-07-24 22-25-58] 
+ Номер ошибки:500 
+ Текст ошибки: Controller app\controllers\MainAdminController not found
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\vendor\mpf\core\Router.php
+ Строка ошибки: 72
+==============================
+[2021-07-24 22-32-09] 
+ Номер ошибки:500 
+ Текст ошибки: Controller app\controllers\TtController not found
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\vendor\mpf\core\Router.php
+ Строка ошибки: 70
+==============================
+[2021-07-24 22-46-04] 
+ Номер ошибки:500 
+ Текст ошибки: Controller app\controllers\admin\TestController not found
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\vendor\mpf\core\Router.php
+ Строка ошибки: 70
+==============================
+[2021-07-24 22-46-04] 
+ Номер ошибки:404 
+ Текст ошибки: Page not found
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\vendor\mpf\core\Router.php
+ Строка ошибки: 73
+==============================
+[2021-07-24 22-46-04] 
+ Номер ошибки:404 
+ Текст ошибки: Page not found
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\vendor\mpf\core\Router.php
+ Строка ошибки: 73
+==============================
+[2021-07-24 22-46-04] 
+ Номер ошибки:404 
+ Текст ошибки: Page not found
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\vendor\mpf\core\Router.php
+ Строка ошибки: 73
+==============================
+[2021-07-24 22-50-19] 
+ Номер ошибки:500 
+ Текст ошибки: Controller app\controllers\admin\TestController not found
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\vendor\mpf\core\Router.php
+ Строка ошибки: 70
+==============================
+[2021-07-24 22-50-19] 
+ Номер ошибки:404 
+ Текст ошибки: Page not found
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\vendor\mpf\core\Router.php
+ Строка ошибки: 73
+==============================
+[2021-07-24 22-50-19] 
+ Номер ошибки:404 
+ Текст ошибки: Page not found
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\vendor\mpf\core\Router.php
+ Строка ошибки: 73
+==============================
+[2021-07-24 22-50-19] 
+ Номер ошибки:404 
+ Текст ошибки: Page not found
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\vendor\mpf\core\Router.php
+ Строка ошибки: 73
+==============================
+[2021-07-24 22-50-29] 
+ Номер ошибки:500 
+ Текст ошибки: Controller app\controllers\admin\TestController not found
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\vendor\mpf\core\Router.php
+ Строка ошибки: 70
+==============================
+[2021-07-24 22-50-29] 
+ Номер ошибки:404 
+ Текст ошибки: Page not found
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\vendor\mpf\core\Router.php
+ Строка ошибки: 73
+==============================
+[2021-07-24 22-50-29] 
+ Номер ошибки:404 
+ Текст ошибки: Page not found
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\vendor\mpf\core\Router.php
+ Строка ошибки: 73
+==============================
+[2021-07-24 22-50-29] 
+ Номер ошибки:404 
+ Текст ошибки: Page not found
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\vendor\mpf\core\Router.php
+ Строка ошибки: 73
+==============================
+[2021-07-24 22-50-41] 
+ Номер ошибки:404 
+ Текст ошибки: Page not found
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\vendor\mpf\core\Router.php
+ Строка ошибки: 73
+==============================
+[2021-07-24 22-50-41] 
+ Номер ошибки:404 
+ Текст ошибки: Page not found
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\vendor\mpf\core\Router.php
+ Строка ошибки: 73
+==============================
+[2021-07-24 22-50-41] 
+ Номер ошибки:404 
+ Текст ошибки: Page not found
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\vendor\mpf\core\Router.php
+ Строка ошибки: 73
+==============================
+[2021-07-24 23-04-10] 
+ Номер ошибки:404 
+ Текст ошибки: Page not found
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\vendor\mpf\core\Router.php
+ Строка ошибки: 73
+==============================
+[2021-07-24 23-10-03] 
+ Номер ошибки:404 
+ Текст ошибки: Layout not foundD:\OpenServer\domains\MyPhpFramework/app/views/layouts/admin\govno.php
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\vendor\mpf\core\base\View.php
+ Строка ошибки: 49
+==============================
+[2021-07-25 12-02-02] 
+ Номер ошибки:404 
+ Текст ошибки: Page not found
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\vendor\mpf\core\Router.php
+ Строка ошибки: 73
+==============================
+[2021-07-25 12-22-23] 
+ Номер ошибки:404 
+ Текст ошибки: Layout not foundD:\OpenServer\domains\MyPhpFramework/app/views/layouts/user\bootstrap.php
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\vendor\mpf\core\base\View.php
+ Строка ошибки: 49
+==============================
+[2021-07-25 14-17-38] 
+ Номер ошибки:0 
+ Текст ошибки: Too few arguments to function mpf\core\base\View::setMeta(), 1 passed in D:\OpenServer\domains\MyPhpFramework\app\controllers\user\MainController.php on line 19 and exactly 3 expected
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\vendor\mpf\core\base\View.php
+ Строка ошибки: 71
+==============================
+[2021-07-25 18-17-28] 
+ Номер ошибки:8 
+ Текст ошибки: Undefined variable: validate
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\app\views\user\MainController\register.php
+ Строка ошибки: 1
+==============================
+[2021-07-26 21-41-57] 
+ Номер ошибки:404 
+ Текст ошибки: Page not found
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\vendor\mpf\core\Router.php
+ Строка ошибки: 73
+==============================
+[2021-07-26 22-26-32] 
+ Номер ошибки:8 
+ Текст ошибки: Undefined variable: success
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\app\views\user\MainController\register.php
+ Строка ошибки: 13
+==============================
+[2021-07-26 22-34-51] 
+ Номер ошибки:0 
+ Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Lexamok' for key 'user.login'
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\vendor\mpf\libs\rb.php
+ Строка ошибки: 834
+==============================
+[2021-07-26 22-54-51] 
+ Номер ошибки:0 
+ Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'nosekpt@gmail.com' for key 'user.email'
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\vendor\mpf\libs\rb.php
+ Строка ошибки: 834
+==============================
+[2021-07-26 22-56-43] 
+ Номер ошибки:8 
+ Текст ошибки: Undefined variable: validate
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\app\views\user\MainController\register.php
+ Строка ошибки: 3
+==============================
+[2021-07-26 22-57-40] 
+ Номер ошибки:8 
+ Текст ошибки: Undefined variable: validate
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\app\views\user\MainController\register.php
+ Строка ошибки: 3
+==============================
+[2021-07-26 22-58-14] 
+ Номер ошибки:8 
+ Текст ошибки: Undefined variable: validate
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\app\views\user\MainController\register.php
+ Строка ошибки: 3
+==============================
+[2021-07-27 14-45-09] 
+ Номер ошибки:404 
+ Текст ошибки: Page not found
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\vendor\mpf\core\Router.php
+ Строка ошибки: 73
+==============================
+[2021-07-27 14-48-51] 
+ Номер ошибки:500 
+ Текст ошибки: Controller app\controllers\user\UserController not found
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\vendor\mpf\core\Router.php
+ Строка ошибки: 70
+==============================
+[2021-07-27 15-00-14] 
+ Номер ошибки:8 
+ Текст ошибки: Undefined index: title
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\vendor\mpf\core\base\View.php
+ Строка ошибки: 66
+==============================
+[2021-07-27 18-43-25] 
+ Номер ошибки:8 
+ Текст ошибки: Undefined index: login
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\app\views\user\UserController\main.php
+ Строка ошибки: 2
+==============================
+[2021-07-27 18-57-37] 
+ Номер ошибки:404 
+ Текст ошибки: View not foundD:\OpenServer\domains\MyPhpFramework/app/views/user\MainController/logout.php
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\vendor\mpf\core\base\View.php
+ Строка ошибки: 33
+==============================
+[2021-07-27 19-13-47] 
+ Номер ошибки:404 
+ Текст ошибки: Page not found
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\vendor\mpf\core\Router.php
+ Строка ошибки: 73
+==============================
+[2021-07-27 19-14-27] 
+ Номер ошибки:500 
+ Текст ошибки: Controller app\controllers\user\GggController not found
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\vendor\mpf\core\Router.php
+ Строка ошибки: 70
+==============================
+[2021-07-27 19-14-43] 
+ Номер ошибки:500 
+ Текст ошибки: Controller app\controllers\user\LolController not found
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\vendor\mpf\core\Router.php
+ Строка ошибки: 70
+==============================
+[2021-07-27 19-14-51] 
+ Номер ошибки:404 
+ Текст ошибки: Page not found
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\vendor\mpf\core\Router.php
+ Строка ошибки: 73
+==============================
+[2021-07-27 19-25-50] 
+ Номер ошибки:8 
+ Текст ошибки: Undefined index: title
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\vendor\mpf\core\base\View.php
+ Строка ошибки: 68
+==============================
+[2021-07-28 14-06-46] 
+ Номер ошибки:8 
+ Текст ошибки: Undefined index: title
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\vendor\mpf\core\base\View.php
+ Строка ошибки: 68
+==============================
+[2021-07-28 14-06-47] 
+ Номер ошибки:404 
+ Текст ошибки: Page not found
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\vendor\mpf\core\Router.php
+ Строка ошибки: 73
+==============================
+[2021-07-28 14-07-01] 
+ Номер ошибки:8 
+ Текст ошибки: Undefined index: title
+ Файл :
+        D:\OpenServer\domains\MyPhpFramework\vendor\mpf\core\base\View.php
+ Строка ошибки: 68
+==============================
